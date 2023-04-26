@@ -1,0 +1,63 @@
+.ico{
+	cursor: pointer;
+	display: inline-block;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+.icon-square{
+	width: 50px;
+	height: 50px;
+	border-radius: 19px;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	&--lilium{
+		background-color: $color-violet;
+	}
+	&--orange{
+		background-color: $color-yellow;
+	}
+	&--red{
+		background-color: $color-red;
+	}
+	&--blue{
+		background-color: $color-blue;
+	}
+}
+
+.ico--play{
+	
+	background-image: url("../images/icons/Triangle.svg");
+	width: 18px;
+	height: 19px;
+}
+
+.ico--arrow{
+	
+	background-image: url("../images/icons/arrow.svg") ;
+	width: 12px;
+	height: 17px;
+}
+
+.ico--snake{
+	
+	background-image: url("../images/icons/snake.svg") ;
+	width: 18px;
+	height: 19px;
+}
+
+.ico--heart{
+	
+	background-image: url("../images/icons/heart.svg");
+	width: 18px;
+	height: 19px;
+}
+
+.ico--clock{
+	
+	background-image: url("../images/icons/clock.svg");
+	width: 18px;
+	height: 19px;
+}

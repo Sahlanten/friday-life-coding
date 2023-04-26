@@ -1,0 +1,25 @@
+@import "abstract/constants.scss";
+@import "abstract/mixins.scss";
+@import "abstract/placeholders.scss";
+
+//*Base 
+@import "base/base.scss";
+@import "base/buttons.scss";
+@import "base/icons.scss";
+@import "base/tags.scss";
+@import "base/hamburger.scss";
+
+
+//* layouts
+@import "layouts/wrapper.scss";
+@import "layouts/header.scss";
+@import "layouts/columns.scss";
+
+// *components
+@import "components/contact-us.scss";
+@import "components/promo.scss";
+@import "components/navigation.scss";
+@import "components/tools.scss";
+@import "components/strategies.scss";
+@import "components/footer.scss";
+@import "components/about-us.scss";

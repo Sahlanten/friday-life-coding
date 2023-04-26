@@ -1,0 +1,23 @@
+.tools {
+  padding-bottom: 90px;
+  background-image: url(../images/background/Bg.png);
+  background-size: 100%;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.tools__title {
+  max-width: 462px;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+.tools__button {
+  margin-top: 60px;
+  text-align: center;
+}
+
+.tool__icon {
+  margin-bottom: 30px;
+}/*# sourceMappingURL=tools.css.map */
